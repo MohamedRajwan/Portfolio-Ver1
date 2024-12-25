@@ -28,7 +28,9 @@ export default function Projects() {
         <div className="w-full">
             <div className="flex flex-col px-10 py-5">
                 <h1 className="text-4xl text-gray-800 border-b-4 border-bg-secondary mb-5 w-[150px] font-bold">Projects</h1>
-                <p className='text-gray-800'>These are some of my best projects. I have built these with React, MERN and vanilla CSS. Check them out.</p>
+                <p className='text-gray-800'>These are some of my top projects built with React, MERN, and PHP. Take a look!
+
+</p>
             </div>
         </div>
         <div className="w-full">
