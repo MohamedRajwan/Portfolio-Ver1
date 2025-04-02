@@ -3,7 +3,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume() {
   const config = {
-    link: '/resume.pdf',  // Link to the PDF file
+    link: '/AFM-Rajwan.pdf',  // Link to the PDF file
   };
 
   return (
